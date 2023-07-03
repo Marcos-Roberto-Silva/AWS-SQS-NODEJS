@@ -1,0 +1,16 @@
+.image-quantity {
+   display: flex;
+    flex-flow: column;
+    margin: 40px
+}
+
+input {
+    width: 200px;
+}
+
+button {
+    width: 206px;
+    margin-right: 5px;
+    margin-top: 7px;
+    cursor: pointer;
+}
